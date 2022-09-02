@@ -1,3 +1,6 @@
+
+Archived ! Moved to [https://github.com/fabcotech/dappy-tools](https://github.com/fabcotech/dappy-tools).
+
 # dappy-lookup
 
 A library written in Typescript that resolves names from Dappy name system (DappyNS).
